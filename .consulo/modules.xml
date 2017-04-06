@@ -6,7 +6,7 @@
         <module-layer name="Default">
           <extension id="java" sdk-name="1.8" />
           <content url="file://$MODULE_DIR$">
-            <content-folder type="EXCLUDED" url="file://$MODULE_DIR$/.consulo" />
+            <content-folder type="PRODUCTION_RESOURCE" url="file://$MODULE_DIR$/resources" />
             <content-folder type="PRODUCTION" url="file://$MODULE_DIR$/src" />
           </content>
           <orderEntry type="module-extension-sdk" extension-id="java" />

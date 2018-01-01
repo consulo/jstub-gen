@@ -1,1 +1,0 @@
-Main-Class: consulo.internal.jstubgen.Main

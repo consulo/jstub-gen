@@ -1,2 +1,4 @@
-/out
 /.consulo/workspace.xml
+/out
+/.consulo
+/target
